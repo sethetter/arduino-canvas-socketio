@@ -1,0 +1,16 @@
+{
+  "name": "arduino-sockets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.0",
+    "johnny-five": "^0.8.47",
+    "socket.io": "^1.3.4"
+  }
+}
