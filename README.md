@@ -6,3 +6,5 @@
 4. Visit http://localhost:3005 in your browser.
 
 Canvas animation will speed up rotation based on value from the potentiometer.
+
+Demo: https://plus.google.com/+sethetter/posts/1DFAwak9d9V
